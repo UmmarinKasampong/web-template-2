@@ -11,7 +11,7 @@ This WebSite I use templete idea from free website templete I write code follow 
 
 
 
-## Libary
+## Lang and Libary
 
 **lang:** html, css and js
 
